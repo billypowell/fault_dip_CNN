@@ -1,0 +1,22 @@
+0 = grad1_1
+1 = grad1_2
+2 = grad1_3
+3 = grad1_4
+4 = grad1_5
+5 = grad1_6
+6 = grad1_7
+7 = grad1_8
+8 = grad1_9
+9 = grad1_10
+
+10 = neggrad1_1
+11 = neggrad1_2
+12 = neggrad1_3
+13 = neggrad1_4
+14 = neggrad1_5
+15 = neggrad1_6
+16 = neggrad1_7
+17 = neggrad1_8
+18 = neggrad1_9
+19 = neggrad1_10
+20 = no fault
